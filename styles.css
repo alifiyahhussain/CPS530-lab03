@@ -1,0 +1,36 @@
+body{
+	background-color:#C8D9C8;
+
+}
+.title{
+	font-family: 'Black Ops One', cursive; 
+	font-size:54px;
+	margin:5% 5% 5% 5%;
+	color:#003366
+}
+.menu{
+	font-family: Verdana,Arial,Helvetica,Sans Serif;
+	font-size:11px;
+	color:black;
+	background-color:#C8D9C8;
+	font-weight:plain;
+	text-align:center;
+	padding: 2%;
+}
+.btn{
+	background-color: #9FCCB5;
+	border-width: 0px;
+}
+.container{
+	padding: 2%;
+}
+.info{
+	background-color: black;
+	padding: 2%;
+}
+h5{
+	color: white;
+}
+.info p{
+	color: white;
+}

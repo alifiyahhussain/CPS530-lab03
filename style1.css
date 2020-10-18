@@ -1,0 +1,45 @@
+body{
+/*	background-color: yellow;*/
+}
+h1{
+	color: #9FCCB5;
+	text-align: center;
+	font-family: 'Merriweather Sans';
+	font-size: 50px;
+	margin:5% 5% 5% 5%;
+}
+.objectives{
+	background-color: #D2FCE6;
+	padding: 5%;
+}
+b{
+	font-size: 20px;
+	color:#9FCCB5;
+	padding: 2%;
+	margin-bottom: 5%;
+	background-color: white;
+}
+ol{
+	padding:1%;
+}
+li{
+	margin-top: 2%;
+	color: #666B7A;
+}
+.activities{
+	background-color: #9FCCB5;
+	padding: 5%;
+}
+.requirements{
+	background-color: #D2FCE6;
+	padding: 5%;
+}
+.submission{
+	background-color: #9FCCB5;
+	padding: 5%;
+}
+.submission p{
+	padding:1%;
+	margin-top: 2%;
+	color: #666B7A;
+}
